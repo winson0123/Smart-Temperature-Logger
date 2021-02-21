@@ -1,0 +1,2 @@
+# Smart-Temperature-Loggger
+The application involves an infrared temperature sensor which measure the valid users’ temperature, who have scanned their RFID access card. The temperature measured will then be stored into a database which will be monitored and an alert will be sent whenever the temperature exceeds a certain value. The target audiences are for corporations or institutions that would like to manage who is able to enter based on their current temperature.
