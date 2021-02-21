@@ -1,4 +1,4 @@
-# Smart-Temperature-Loggger
+# Smart-Temperature-Logger
 ## Table of Contents
 * Section 1 - Overview
 * Section 2 - Hardware Requirements
@@ -445,3 +445,6 @@ https://youtu.be/xpzw3DpkwlU
 There is a need to turn the Temperature System on from the Web Server. Access the webserver and log into the domain.
 
 Turn on the Temperature System by clicking on the "ON/OFF" button on the dashboard. Once there is a message displayed on the LCD screen stating that the system is online, and everything should be in order.
+
+## Section 13 - Source Codes
+#### Download the sources codes and put to the respective location as per stated by the folder.
